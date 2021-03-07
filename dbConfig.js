@@ -9,7 +9,7 @@ const config = {
         trustedConnection: true,
         encrypt: false, 
         instanceName: 'SQLEXPRESS',
-        enableArithAbort:true              
+        enableArithAbort: false             
     } 
 }
 
