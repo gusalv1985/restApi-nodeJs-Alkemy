@@ -1,4 +1,4 @@
-//conexion a la bd sql server
+//conexion a la bd sql server, cambiar los datos del user, pass y server para la comunicacion
 
 const config = {
     user: 'gus',
